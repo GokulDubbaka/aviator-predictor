@@ -1,0 +1,20 @@
+# aviator-predictor — Python Dependencies
+# Install with: pip install -r requirements.txt
+# For running tests: pip install -r requirements-dev.txt
+
+# Core ML
+numpy>=1.24.0
+scikit-learn>=1.4.0
+
+# Data handling
+pandas>=2.0.0
+
+# HTTP / API client
+requests>=2.31.0
+websockets>=12.0
+
+# Stats
+scipy>=1.11.0
+
+# Environment variables
+python-dotenv>=1.0.0
